@@ -5,7 +5,8 @@ SyncMirror is a personal project to let me easily create local mirrors which onl
 without a lot of hassle or having to care about differences across mirrors.
 
 ## Current State
-The project is currently in "brain child" status, Where it's probably going to wildly change.
+The project is currently in "brain child" status.
+It's probably going to wildly change.
 
 ## Project Goals
 
