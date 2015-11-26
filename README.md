@@ -7,10 +7,10 @@ The project is currently in "brain child" status, Where it's probably going to w
 ## Project Goals
 ### In Progress
 * Creating a repository mirroring module-set which will utilize rsync for data transfer
-** The ability to specify architectures and release versions for package repositories
-** Support for multiple mirror types, such as APT and YUM
+  * The ability to specify architectures and release versions for package repositories
+  * Support for multiple mirror types, such as APT and YUM
 * Creating an example script to use ( syncmirrors.pl )
-** Script is logical and easy to read
+  * Script is logical and easy to read
 ### Wishlist / Future
 * Fleshout of provided sample script to be more of a usable application ( eg: ini or yaml style configuration )
 * Repo metadata reading for providing information back or assisting in determining how to mirror
