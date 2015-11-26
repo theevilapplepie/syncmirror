@@ -16,7 +16,7 @@ The project is currently in "brain child" status, Where it's probably going to w
 * Creating an example script to use ( syncmirrors.pl )
   * Script is logical and easy to read
 
-### Wishlist / Future
+### Future
 * Fleshout of provided sample script to be more of a usable application ( eg: ini or yaml style configuration )
 * Repo metadata reading for providing information back or assisting in determining how to mirror
 * Support for FTP or HTTP ( possibly may be usable after the prior )
